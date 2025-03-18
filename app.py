@@ -38,6 +38,6 @@ def predict():
 
 if __name__ == '__main__':
    # print(public_url)
-    app.run()
+    app.run(port=8000)
 
 
